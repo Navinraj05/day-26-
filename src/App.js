@@ -1,5 +1,5 @@
 import './App.css';
-import Card from './Card';
+import Card from './Cards';
 
 const cardData = [
   {id:1, 
